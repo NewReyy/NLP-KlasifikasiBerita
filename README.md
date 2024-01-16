@@ -1,3 +1,5 @@
+https://github.com/NewReyy/NLP-KlasifikasiBerita/issues/1#issue-2084383649
+
 # Kriteria Terpenuhi
 
 - Dataset yang akan dipakai bebas, namun minimal memiliki 1000 sampel.
