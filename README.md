@@ -1,4 +1,4 @@
-https://github.com/NewReyy/NLP-KlasifikasiBerita/issues/1#issue-2084383649
+![image](https://github.com/NewReyy/NLP-KlasifikasiBerita/assets/72202432/71aa64d2-ad0d-47d7-a292-dd43fe03dd69)
 
 # Kriteria Terpenuhi
 
